@@ -20,6 +20,11 @@
         android:id="@+id/display_dog_age"
         style="@style/editText"
         />
+
+    <TextView
+        android:id="@+id/display_allergies"
+        style="@style/editText" />
+
     <TextView
         android:id="@+id/display_contact_info"
         style="@style/editText"
